@@ -57,6 +57,7 @@
 		"nodemon": "^2.0.15",
 		"pm2": "^5.2.0",
 		"redis": "^4.0.3",
+		"redis-benchmark-parser": "^0.0.4",
 		"redis-cli": "^2.1.2",
 		"ts-node": "^10.5.0",
 		"ts-node-dev": "^1.1.8"
