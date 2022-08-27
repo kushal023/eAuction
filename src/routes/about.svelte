@@ -1,3 +1,3 @@
 <h1>About Us</h1>
 
-<p>eAuction lets your auction off your unused stuff</p>
+<p>eAuction is a platform for conduct online Auctions for sale and purchase. </p>

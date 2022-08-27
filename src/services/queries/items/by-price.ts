@@ -3,7 +3,7 @@ import { itemsKey, itemsByPriceKey } from '$services/keys';
 import { deserialize } from './deserialize';
 
 export const itemsByPrice = async (order: 'DESC' | 'ASC' = 'DESC', offset = 0, count = 10) => {
-    let results: any = await client.sort(itemsByPriceKey(), {
+	let results: any = await client.sort(itemsByPriceKey(), {
 		GET: [
 			'#',
 			`${itemsKey('*')}->name`,

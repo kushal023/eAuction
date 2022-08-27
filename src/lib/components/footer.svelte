@@ -29,7 +29,6 @@
 						<li
 							class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
 						>
-							<a href="/"> Navigation </a>
 						</li>
 					</ul>
 				</div>
@@ -41,12 +40,12 @@
 						<li
 							class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
 						>
-							<a href="/"> Github </a>
+							<a href="https://github.com/kushalchauhan7629/"> Github </a>
 						</li>
 						<li
 							class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
 						>
-							<a href="https://www.facebook.com/kushalchauhan23/"> Facebook </a>
+							<a href="/"> Facebook </a>
 						</li>
 						<li
 							class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
@@ -56,7 +55,6 @@
 						<li
 							class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
 						>
-							<a href="/"> LinkedIn </a>
 						</li>
 					</ul>
 				</div>
@@ -83,7 +81,6 @@
 						<li
 							class="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200"
 						>
-							<a href="/"> LinkedIn </a>
 						</li>
 					</ul>
 				</div>
